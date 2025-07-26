@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Celestine Bish",
+        "age": "25",
+        "policy_number": "PN123",
+        "active": true
+    },
+    {
+        "name": "Clark Usman",
+        "age": "27",
+        "policy_number": "PN124",
+        "active": true
+    },
+    {
+        "name": "Chase Bish",
+        "age": "20",
+        "policy_number": "PN123",
+        "active": false
+    },
+    {
+        "name": "Clark Gable",
+        "age": "23",
+        "policy_number": "PN124",
+        "active": false
+    }
+]
